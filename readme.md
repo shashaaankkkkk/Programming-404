@@ -25,4 +25,5 @@ Follow along with the video series on [Instagram](https://www.instagram.com/shas
 ## Connect With Me
 
 - Instagram: [@shashaaankkkkk.code](https://www.instagram.com/shashaaankkkkk.code/)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shashaaankkkkk)
+- LinkedIn: [@Shashaaankkkkk](https://www.linkedin.com/in/shashaaankkkkk)
+
