@@ -6,13 +6,10 @@ int main(){
      to do again
      }
   */
-//check age of user if he or she can vote
-  int age;
-  printf("enter your age:\n");
-  scanf("%d",&age);
-  if(age<18){
-    printf("You are nabalik\n");
+//simple if and else
+  if(1>18){
+    printf("Greater\n");
   }else{
-    printf("Jao sarkar girao\n");
+    printf("small\n");
   }
 }
